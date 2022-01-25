@@ -1,10 +1,10 @@
 # Phone Number RegEx
 
-Introductory paragraph (replace this with your text)d
+Phone number regular expressions are among several of comonly used regexs. I choose this one for the fact that it is a much simpler approach to understanding RegExs in general.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+The phone number regex is a simple and effective way to insert a phone number technically into your machine. It's very simple once you understand the components of the Regex. Your phone number Regex should look like: ^\(?(\d{3})\)?[- ]?(\d{3})[- ]?(\d{4})$
 
 ## Table of Contents
 
@@ -25,12 +25,13 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ### Anchors
 -Beginning ^ 
 -Ending $ means that this is the end of the line or string of the regex 
+
 ### Quantifiers
 -Matches 3 of the proceeding tokens (0-9)
 -Second user input incldudes 3 of the proceeding tokens (0-9)
--
+
 ### OR Operator
-- Sqaure Brackets // Character Set [] which in this case will match a space with - or a blank 
+- Sqaure Brackets // Character Set [] which in this case will match a space with (-) or a blank !
 ### Character Classes
 
 ### Flags
@@ -49,4 +50,6 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Sabrina Elkins, I am a certified Power Yoga instructor. I bartend and serve at the Secret bar at the W Hotel, while also helping one of my close buddies with his startup company SunShader Inc. I am new to the coding world, but truly in love with the enviorment of it. I have a passion for learning and being in the University of Austin Coding Bootcamp is not only rewarding, but a huge opportunity for my future in the career field I aspire to be in.
+
+GitHub: https://github.com/sabrinaelkins
