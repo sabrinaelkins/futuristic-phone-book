@@ -47,6 +47,8 @@ The phone number regex is a simple and effective way to insert a phone number te
 - A bracket expression is a list of characters enclosed by ' [ ' and ' ] '. It matches any single character in that list.
 
 ### Greedy and Lazy Match
+- Greedy means match longest possible string in a regex.
+- Lazy means match shortest possible string. 
 
 ### Boundaries
 
