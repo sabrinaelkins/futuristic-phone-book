@@ -51,6 +51,6 @@ The phone number regex is a simple and effective way to insert a phone number te
 
 ## Author
 
-My name is Sabrina Elkins, I am a certified Power Yoga instructor. I bartend and serve at the Secret bar at the W Hotel, while also helping one of my close buddies with his startup company SunShader Inc. I am new to the coding world, but truly in love with the enviorment of it. I have a passion for learning and being in the University of Austin Coding Bootcamp is not only rewarding, but a huge opportunity for my future in the career field I aspire to be in.
+My name is Sabrina Elkins, I am a certified Power Yoga instructor. I bartend and serve at the Secret bar at the W Hotel, while also helping one of my close buddies with his startup company SunShader Inc. I am new to the coding world, but truly in love with the enviorment of it. I have a passion for learning and being in the University of Austin Coding Bootcamp is not only rewarding, but a huge opportunity for my future and the career field I aspire to be in.
 
 GitHub: https://github.com/sabrinaelkins
