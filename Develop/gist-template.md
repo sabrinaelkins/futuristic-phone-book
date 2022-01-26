@@ -24,12 +24,12 @@ The phone number regex is a simple and effective way to insert a phone number te
 ^\(?(\d{3})\)?[- ]?(\d{3})[- ]?(\d{4})$
 
 ### Anchors
--Beginning ^ 
--Ending $ means that this is the end of the line or string of the regex 
+- Beginning ^ 
+- Ending $ means that this is the end of the line or string of the regex 
 
 ### Quantifiers
--Matches 3 of the proceeding tokens (0-9)
--Second user input incldudes 3 of the proceeding tokens (0-9)
+- Matches 3 of the proceeding tokens (0-9)
+- Second user input incldudes 3 of the proceeding tokens (0-9)
 
 ### OR Operator
 - Sqaure Brackets // Character Set [] which in this case will match a space with (-) or a blank !
@@ -37,11 +37,11 @@ The phone number regex is a simple and effective way to insert a phone number te
 ### Character Classes
 
 ### Flags
--There are no flags in this expression, but if their were it would like like a .dot character, technically reffered to as the "wildcard character" which just basically matches everything except newline characters.
+- There are no flags in this expression, but if their were it would like like a .dot character, technically reffered to as the "wildcard character" which just basically matches everything except newline characters.
 
 ### Grouping and Capturing
--There are three total capturing groups in this specific expression, one being the first which in this case matches any digit character (0-9)
--It also has a quantifier of three, which means that thre specific numbers between the capturing set (0-9) will be used to execute this.
+- There are three total capturing groups in this specific expression, one being the first which in this case matches any digit character (0-9)
+- It also has a quantifier of three, which means that thre specific numbers between the capturing set (0-9) will be used to execute this.
 
 ### Bracket Expressions
 
