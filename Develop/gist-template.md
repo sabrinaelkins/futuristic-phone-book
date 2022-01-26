@@ -44,6 +44,7 @@ The phone number regex is a simple and effective way to insert a phone number te
 - It also has a quantifier of three, which means that thre specific numbers between the capturing set (0-9) will be used to execute this.
 
 ### Bracket Expressions
+- A bracket expression is a list of characters enclosed by ' [ ' and ' ] '. It matches any single character in that list.
 
 ### Greedy and Lazy Match
 
