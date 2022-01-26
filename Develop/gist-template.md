@@ -24,12 +24,12 @@ The phone number regex is a simple and effective way to insert a phone number te
 ^\(?(\d{3})\)?[- ]?(\d{3})[- ]?(\d{4})$
 
 ### Anchors
-- Beginning ^ 
-- Ending $ means that this is the end of the line or string of the regex 
+- Beginning of the regex starts with a simple carrot top as shown --> ^
+- Ending of the regex is a doller sign as shown --> $ this means that this is the end of the line or string of the regex. 
 
 ### Quantifiers
 - Matches 3 of the proceeding tokens (0-9)
-- Second user input incldudes 3 of the proceeding tokens (0-9)
+- Second user input includes 3 of the proceeding tokens (0-9)
 
 ### OR Operator
 - Sqaure Brackets // Character Set [] which in this case will match a space with (-) or a blank !
