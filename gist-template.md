@@ -1,6 +1,6 @@
 # Phone Number RegEx
 
-Phone number regular expressions are among several of comonly used regexs. I choose this one for the fact that it is a much simpler approach to understanding RegExs in general.
+Phone number regular expressions are among several of comonly used regexs. I chose this one for the fact that it is a much simpler approach to understanding RegExs in general.
 
 ## Summary
 
